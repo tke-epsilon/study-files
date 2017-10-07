@@ -1,0 +1,19 @@
+{
+  "name": "epsilon-study-files-app",
+  "version": "1.0.0",
+  "description": "Automates and provides access to Epsilon study files and related information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Epsilon",
+    "study",
+    "files",
+    "Tau",
+    "Kappa",
+    "Epsilon"
+  ],
+  "author": "Tom Scallon",
+  "license": "UNLICENSED"
+}
