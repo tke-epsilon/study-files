@@ -2,6 +2,7 @@
   "name": "epsilon-study-files-app",
   "version": "1.0.0",
   "description": "Automates and provides access to Epsilon study files and related information.",
+  "repository": "https://github.com/tke-epsilon/study-files.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +16,9 @@
     "Epsilon"
   ],
   "author": "Tom Scallon",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^22.2.0"
+  }
 }
